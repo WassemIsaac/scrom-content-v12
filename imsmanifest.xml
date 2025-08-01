@@ -60,7 +60,7 @@
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6rV5CNDdY9s_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__6rV5CNDdY9s_RES" type="webcontent" href="index.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/video_610jhMce2fi_48_960x540.hls/main.m3u8" />
       <file href="story_content/video_610jhMce2fi_48_960x540.hls/stream_0.m3u8" />
@@ -662,7 +662,7 @@
       <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
       <file href="analytics-frame.html" />
       <file href="story.html" />
-      <file href="index_lms.html" />
+      <file href="index.html" />
       <file href="lms/AICCComm.html" />
       <file href="lms/blank.html" />
       <file href="lms/browsersniff.js" />
